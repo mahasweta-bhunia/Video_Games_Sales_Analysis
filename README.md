@@ -11,7 +11,7 @@ Despite having access to massive volumes of raw data, the sales team lacked a un
 
 4. which year had the highest sales? Has industry grown over time?
 
-Which game is popular in one region but flop in another?
+5. Which game is popular in one region but flop in another?
 # Goal of the Dashboard
 1. Track global sales trends over decades.
 
