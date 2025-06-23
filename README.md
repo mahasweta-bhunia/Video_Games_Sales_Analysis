@@ -62,5 +62,6 @@ This dashboard helps the sales team:
 # Potential impact: 
 Optimized launch timing and region-based targeting could improve launch performance by 10–15%.
 # Screenshot Of the Dashboard
+https://github.com/mahasweta-bhunia/Video_Games_Sales_Analysis/blob/main/Video_Game_Dashboard.PNG
 
 
